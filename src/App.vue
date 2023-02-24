@@ -1,3 +1,3 @@
 <template>
-  <el-button>Default</el-button>
+  <RouterView />
 </template>
